@@ -10,15 +10,15 @@ const rpc = require("discordrpcgenerator");
 
 
 
-let NAME = "Name"
-let DETAILS = "Details"
-let STATE = "State"
-let URL = ""
-let APPID = ""
-let LARGEIMG = "Id Img"
+let NAME = "zzzzzz"
+let DETAILS = "zzzzzz"
+let STATE = "Szzzzzzze"
+let URL = "https://m.twitch.tv/xtasiaego/home"
+let APPID = "1043168841326403594"
+let LARGEIMG = "https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&"
 let LARGETEXT = "Large Text"
-let SMALLIMG = "Id Img"
-let SMALLTEXT = "Id Img"
+let SMALLIMG = "https://media.discordapp.net/attachments/1108081101328629823/1236764044174561381/image0.gif?ex=663931c6&is=6637e046&hm=7c8b64867caebf7f68473a2cf0134523716bef2f8207fc6aff770b1ff1bf5ff6&"
+let SMALLTEXT = "HELP"
 
 
 
